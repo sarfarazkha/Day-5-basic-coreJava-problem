@@ -2,7 +2,7 @@ package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
 
-public class EvenOdd {
+public class EvenOdd { 
     public static void main(String[] args) {
         int num;
         System.out.println("enter an year :: ");
