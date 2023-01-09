@@ -1,6 +1,6 @@
 package com.bridgelab.basiccoreproblem;
 
-public class FlipCoin {
+public class FlipCoin { 
     private static void flipCoinPercentage(int coinFlip) {
         int headCount = 0;
         int tailCount = 0;
