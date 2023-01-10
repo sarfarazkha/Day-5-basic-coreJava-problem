@@ -2,7 +2,7 @@ package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
 
-public class LeapYear {
+public class LeapYear { 
     public static void main(String[] args) {
         int year;
         System.out.println("enter an year :: ");
