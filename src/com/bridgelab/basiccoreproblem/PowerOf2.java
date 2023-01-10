@@ -2,7 +2,7 @@ package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
 
-public class PowerOf2 {
+public class PowerOf2 { 
     private static void printTableOfPowerTwo() {
         int base = 2;
         int N = 31;
