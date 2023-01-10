@@ -2,7 +2,7 @@ package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
 
-public class LargestNum {
+public class LargestNum { 
     public static void main(String[] args) {
 
         int n1 = 10, n2 = 20, n3 = 30;
