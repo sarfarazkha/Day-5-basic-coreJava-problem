@@ -1,8 +1,8 @@
 package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
-
-public class Swaping {
+ 
+public class Swaping { 
     public static void main(String[] args) {
         int x, y, t;
         Scanner sc = new Scanner(System.in);
