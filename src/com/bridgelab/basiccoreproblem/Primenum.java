@@ -2,7 +2,7 @@ package com.bridgelab.basiccoreproblem;
 
 import java.util.Scanner;
 
-public class Premium {
+public class Primenum {
     public static void main(String[] args) {
 
         int num = 90;
